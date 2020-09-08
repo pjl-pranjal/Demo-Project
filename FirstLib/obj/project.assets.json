@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pranjalverma/Desktop/FirstLib/FirstLib.csproj",
+      "projectUniqueName": "/Users/pranjalverma/Desktop/Work/FirstLib/FirstLib.csproj",
       "projectName": "FirstLib",
-      "projectPath": "/Users/pranjalverma/Desktop/FirstLib/FirstLib.csproj",
+      "projectPath": "/Users/pranjalverma/Desktop/Work/FirstLib/FirstLib.csproj",
       "packagesPath": "/Users/pranjalverma/.nuget/packages/",
-      "outputPath": "/Users/pranjalverma/Desktop/FirstLib/obj/",
+      "outputPath": "/Users/pranjalverma/Desktop/Work/FirstLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pranjalverma/.nuget/NuGet/NuGet.Config"

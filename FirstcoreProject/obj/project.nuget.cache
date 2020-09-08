@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dyXHjYUlA6SVK2UBIZtcdfGwRRvnixK4gL/3qm+vUJikVv3huYWE8f+Pt9+5dsRrm7GfGbxL1g1V7aGb3FXyFQ==",
+  "dgSpecHash": "IY57aW3sfp5A9iMkdfLQUJFoQj+wmbT/Ai7tpJWTM0VeOEhEI6rEnU/bu6ENK1v24mL3btuS52PU9hh/KyF9PQ==",
   "success": true,
-  "projectFilePath": "/Users/pranjalverma/Desktop/FirstcoreProject/FirstcoreProject.csproj",
+  "projectFilePath": "/Users/pranjalverma/Desktop/Work/FirstcoreProject/FirstcoreProject.csproj",
   "expectedPackageFiles": [
     "/Users/pranjalverma/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/pranjalverma/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -7,3 +7,12 @@
 /Users/pranjalverma/Desktop/FirstLib/obj/Debug/netstandard2.0/FirstLib.csproj.CoreCompileInputs.cache
 /Users/pranjalverma/Desktop/FirstLib/obj/Debug/netstandard2.0/FirstLib.dll
 /Users/pranjalverma/Desktop/FirstLib/obj/Debug/netstandard2.0/FirstLib.pdb
+/Users/pranjalverma/Desktop/Work/FirstLib/bin/Debug/netstandard2.0/FirstLib.deps.json
+/Users/pranjalverma/Desktop/Work/FirstLib/bin/Debug/netstandard2.0/FirstLib.dll
+/Users/pranjalverma/Desktop/Work/FirstLib/bin/Debug/netstandard2.0/FirstLib.pdb
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.csprojAssemblyReference.cache
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.AssemblyInfoInputs.cache
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.AssemblyInfo.cs
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.csproj.CoreCompileInputs.cache
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.dll
+/Users/pranjalverma/Desktop/Work/FirstLib/obj/Debug/netstandard2.0/FirstLib.pdb

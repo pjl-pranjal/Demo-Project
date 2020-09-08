@@ -5521,11 +5521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pranjalverma/Desktop/FirstcoreProject/FirstcoreProject.csproj",
+      "projectUniqueName": "/Users/pranjalverma/Desktop/Work/FirstcoreProject/FirstcoreProject.csproj",
       "projectName": "FirstcoreProject",
-      "projectPath": "/Users/pranjalverma/Desktop/FirstcoreProject/FirstcoreProject.csproj",
+      "projectPath": "/Users/pranjalverma/Desktop/Work/FirstcoreProject/FirstcoreProject.csproj",
       "packagesPath": "/Users/pranjalverma/.nuget/packages/",
-      "outputPath": "/Users/pranjalverma/Desktop/FirstcoreProject/obj/",
+      "outputPath": "/Users/pranjalverma/Desktop/Work/FirstcoreProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pranjalverma/.nuget/NuGet/NuGet.Config"
@@ -5539,8 +5539,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/pranjalverma/Desktop/FirstLib/FirstLib.csproj": {
-              "projectPath": "/Users/pranjalverma/Desktop/FirstLib/FirstLib.csproj"
+            "/Users/pranjalverma/Desktop/Work/FirstLib/FirstLib.csproj": {
+              "projectPath": "/Users/pranjalverma/Desktop/Work/FirstLib/FirstLib.csproj"
             }
           }
         }
